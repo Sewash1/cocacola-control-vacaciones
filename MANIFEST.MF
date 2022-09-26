@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Tsuki
+Main-Class: Bienvenida
+X-COMMENT: Programa de práctica
