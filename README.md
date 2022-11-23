@@ -2,7 +2,7 @@
 Sistema de control para que los empleados puedan ver sus vacaciones asignadas.
 
 Descripción de las funcionalidades:
-
+El programa empieza con una ventana para ingresar el nombre del usuario. En la segunda ventana se muestran términos y condiciones que podrán ser aceptados o no. En la tercera ventana hay varios campos que pueden ser llenados con datos. Tambien hay un menú con varias opciones como: cambiar color, nuevo (para vaciar los campos), salir, calcular vacaciones y acerca del programa.
 
 Instrucciones para ejecutar el programa:
 1. Descargar los archivos Sistema.jar e images.zip
